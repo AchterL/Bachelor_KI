@@ -1,0 +1,6 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.6
+# Feature-Recorder: email
+# Filename: /case/DATA/data
+# Histogram-File-Version: 1.1
+n=12953	support@e-iceblue.com	(utf16=8638)

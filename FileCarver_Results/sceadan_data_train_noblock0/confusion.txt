@@ -1,0 +1,14 @@
+     file  block
+type count count CDR CSV DBC GPX XLS
+------------------------------------
+CDR  0         0   0   0   0   0   0
+CSV  0         0   0   0   0   0   0
+DBC  0         0   0   0   0   0   0
+GPX  0         0   0   0   0   0   0
+XLS  0         0   0   0   0   0   0
+    
+train blocksize: 4096
+test blocksize: None
+liblinear train command: ../liblinear/train -e 0.01 -c 32 /case/sceadan_data_train_noblock0/vectors_to_train /case/sceadan_data_train_noblock0/mo
+overall accuracy: 0.0
+average accuracy per class: 0.0

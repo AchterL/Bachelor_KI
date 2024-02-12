@@ -1,0 +1,11 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.6
+# Feature-Recorder: url
+# Filename: /case/DATA/data
+# Histogram-File-Version: 1.1
+n=25912	://www.e-iceblue.com	(utf16=17276)
+n=12954	://www.topografix.com
+n=4380	://github.com
+n=4318	://www.w3.org
+n=1	://www.e-icebl
+n=1	://www.e-iceblu

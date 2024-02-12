@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2024/01/30 12:51:42 (CET)</CreatedDate>
+  <ModifiedDate>2024/01/30 12:51:43 (CET)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.20.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.20.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>autopsy_data_20240130_125142</Name>
+    <DisplayName>autopsy_data</DisplayName>
+    <Number/>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>

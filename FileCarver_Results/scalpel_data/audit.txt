@@ -1,0 +1,16 @@
+
+Scalpel version 1.60 audit file
+Started at Fri Jan 26 17:24:10 2024
+Command line:
+scalpel -c /etc/scalpel/scalpel.conf -o /case/scalpel_data /case/DATA/data 
+
+Output directory: /case/scalpel_data
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "H="
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+
+
+Completed at Fri Jan 26 17:24:10 2024
